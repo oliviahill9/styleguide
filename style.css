@@ -41,6 +41,11 @@ body {
     justify-content: center;
 }
 
+.text-section {
+    align-items: center;
+    margin: 0 10%;
+}
+
 .olivine {
 background-color: #8CB369;
 width: 300px;
@@ -198,16 +203,50 @@ vertical-align: top;
 font-weight:bold;
 font-size: 40px;
 font-family: "Linden Hill";
+
 }
 
 #subheading {
-Font-weight: 600;
-Font-size: 25px;
-Font-family: "Asar"
+font-weight: 600;
+font-size: 25px;
+font-family: "Asar"
+
 }
 
 #paragraph-text {
-    Font-weight: 400;
-Font-size: 18px;
-Font-family: "Rosarivo"
+font-weight: 400;
+font-size: 18px;
+font-family: "Rosarivo"
 }
+
+.text-1 {
+    display: inline-block;
+    margin: 5px 5px;
+    border: 1px solid black;
+    width: 355px;
+    height: 192px;
+    vertical-align: top;
+    text-align: center;
+    
+}
+
+.text-2 {
+    display: inline-block;
+    margin: 5px 5px;
+    border: 1px solid black;
+    width: 300px;
+    height: 192px;
+    vertical-align: top;
+    text-align: center;
+}
+
+.text-3 {
+    display: inline-block;
+    margin: 5px 5px;
+    border: 1px solid black;
+    width: 300px;
+    height: 192px;
+    vertical-align: top;
+    text-align: center;
+}
+
