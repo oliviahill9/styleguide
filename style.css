@@ -3,7 +3,7 @@
 }
 
 body {
-    background-color:seashell;
+    background-color:#babd8d;
 }
 
 #h1 {
@@ -32,6 +32,8 @@ body {
 .color-section {
     align-items: center;
     margin: 0 10%;
+    background-color:rgba(211,211,211, 50%);
+    border-radius: 10%;
 }
 
 .font-section {
@@ -39,11 +41,15 @@ body {
     margin: 0 10%;
     width: 1000px;
     justify-content: center;
+    background-color: rgba(211,211,211, 50%);
+    border-radius: 5%;
 }
 
 .text-section {
     align-items: center;
     margin: 0 10%;
+    background-color: rgba(211,211,211, 50%);
+    border-radius: 10%;
 }
 
 .olivine {
@@ -163,39 +169,45 @@ text-align: center;
 
 .font-1 {
 display: inline-block;
-border: 2px solid #BC4B51;
+
 width: 300px;
 height: 200px;
 margin: 10px 10px;
 vertical-align: top;
+border-radius: 5%;
+background-color: seashell;
 }
 
 .font-2 {
     display: inline-block;
-    border: 2px solid #BC4B51;
+    
     width: 300px;
     height: 200px;
     margin: 10px 10px;
     justify-content: center;
     vertical-align: top;
+    border-radius: 5%;
+    background-color: seashell;
 }
 
 .font-3 {
-    display: inline-block;
-    border: 2px solid #BC4B51;
-    width: 300px;
+display: inline-block;
+width: 300px;
 height: 200px;
 margin: 10px 10px;
 vertical-align: top;
+border-radius: 5%;
+background-color: seashell;
 }
 
 .font-4 {
-    display: inline-block;
-    border: 2px solid #BC4B51;
-    width: 300px;
+display: inline-block;
+width: 300px;
 height: 200px;
 margin: 10px 10px;
 vertical-align: top;
+border-radius: 5%;
+background-color: seashell;
 }
 
 
@@ -224,7 +236,7 @@ font-family: "Rosarivo"
 .text-1 {
     display: inline-block;
     margin: 5px 5px;
-    border: 3px solid #5B8E7D;
+    
     width: 355px;
     height: 192px;
     vertical-align: top;
@@ -236,7 +248,7 @@ font-family: "Rosarivo"
 .text-2 {
     display: inline-block;
     margin: 5px 5px;
-    border: 3px solid #5B8E7D;
+    
     width: 300px;
     height: 192px;
     vertical-align: top;
@@ -246,7 +258,7 @@ font-family: "Rosarivo"
 .text-3 {
     display: inline-block;
     margin: 5px 5px;
-    border: 3px solid #5B8E7D;
+    
     width: 300px;
     height: 192px;
     vertical-align: top;
