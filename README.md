@@ -1,5 +1,5 @@
 # Style Guide Project
-[Link to Style Guide Project]
+[Link to Style Guide Project](https://oliviahill9.github.io/styleguide/)
 
 This project was set as part of Codecademy's Full Stack course. 
 
