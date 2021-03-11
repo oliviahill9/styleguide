@@ -6,7 +6,7 @@ body {
     background-color:seashell;
 }
 
-h1 {
+#h1 {
     font-family: "Linden Hill";
     text-align: center;
     font-size: 50px;
@@ -16,11 +16,11 @@ h1 {
     border-radius: 20%;
 }
 
-h2 {
+.h2 {
     font-family: "Linden Hill";
     text-align: center;
     font-size: 30px;
-    font-weight: 500;
+    font-weight: bold;
 }
 
 .para {
@@ -191,4 +191,23 @@ vertical-align: top;
 height: 200px;
 margin: 10px 10px;
 vertical-align: top;
+}
+
+
+#main-page-heading {
+font-weight:bold;
+font-size: 40px;
+font-family: "Linden Hill";
+}
+
+#subheading {
+Font-weight: 600;
+Font-size: 25px;
+Font-family: "Asar"
+}
+
+#paragraph-text {
+    Font-weight: 400;
+Font-size: 18px;
+Font-family: "Rosarivo"
 }
