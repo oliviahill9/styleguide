@@ -11,7 +11,7 @@ body {
     text-align: center;
     font-size: 50px;
     font-weight: 300;
-    background-color: #8CB369;
+
     height:fit-content;
     border-radius: 20%;
 }
@@ -201,7 +201,7 @@ vertical-align: top;
 
 #main-page-heading {
 font-weight:bold;
-font-size: 40px;
+font-size: 30px;
 font-family: "Linden Hill";
 
 }
@@ -214,26 +214,29 @@ font-family: "Asar"
 }
 
 #paragraph-text {
+    padding-top: 20px;
 font-weight: 400;
 font-size: 18px;
 font-family: "Rosarivo"
+
 }
 
 .text-1 {
     display: inline-block;
     margin: 5px 5px;
-    border: 1px solid black;
+    border: 3px solid #5B8E7D;
     width: 355px;
     height: 192px;
     vertical-align: top;
     text-align: center;
+    
     
 }
 
 .text-2 {
     display: inline-block;
     margin: 5px 5px;
-    border: 1px solid black;
+    border: 3px solid #5B8E7D;
     width: 300px;
     height: 192px;
     vertical-align: top;
@@ -243,7 +246,7 @@ font-family: "Rosarivo"
 .text-3 {
     display: inline-block;
     margin: 5px 5px;
-    border: 1px solid black;
+    border: 3px solid #5B8E7D;
     width: 300px;
     height: 192px;
     vertical-align: top;
