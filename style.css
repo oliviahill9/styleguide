@@ -1,3 +1,7 @@
+* {
+    box-sizing: border-box;
+}
+
 body {
     background-color:seashell;
 }
@@ -19,10 +23,22 @@ h2 {
     font-weight: 500;
 }
 
-#para {
+.para {
     font-family: "Linden Hill";
     text-align: center;
     font-size: 20px;
+}
+
+.color-section {
+    align-items: center;
+    margin: 0 10%;
+}
+
+.font-section {
+    align-items: center;
+    margin: 0 10%;
+    width: 1000px;
+    justify-content: center;
 }
 
 .olivine {
@@ -30,6 +46,10 @@ background-color: #8CB369;
 width: 300px;
 height: 200px;
 display: inline-block;
+margin: 10px 10px;
+border-radius: 50%;
+text-align: center;
+
 }
 
 .buff {
@@ -37,6 +57,9 @@ background-color: #F4E285;
 width: 300px;
 height: 200px;
 display: inline-block;
+margin: 10px 10px;
+border-radius: 50%;
+text-align: center;
 }
 
 .sandy-brown {
@@ -44,6 +67,9 @@ background-color: #F4A259;
 width: 300px;
 height: 200px;
 display: inline-block;
+margin: 10px 10px;
+border-radius: 50%;
+text-align: center;
 }
 
 .wintergreen-dream {
@@ -51,6 +77,9 @@ background-color: #5B8E7D;
 width: 300px;
 height: 200px;
 display: inline-block;
+margin: 10px 10px;
+border-radius: 50%;
+text-align: center;
 }
 
 .bittersweet-shimmer {
@@ -58,4 +87,108 @@ background-color: #BC4B51;
 width: 300px;
 height: 200px;
 display: inline-block;
+margin: 10px 10px;
+border-radius: 50%;
+text-align: center;
+}
+
+.olivine-text {
+    display: block;
+    padding: 20px 20px;
+    font-family: "Asar";
+   
+    
+    
+}
+
+.buff-text {
+    display: block;
+    padding: 20px 20px;
+    font-family: "Asar";
+}
+
+.sandy-brown-text {
+    display: block;
+    padding: 20px 20px;
+    font-family: "Asar";
+}
+
+.wintergreen-dream-text {
+    display: block;
+    padding: 20px 20px;
+    font-family: "Asar";
+}
+
+.bittersweet-shimmer-text {
+    display: block;
+    padding: 20px 20px;
+    font-family: "Asar";
+}
+
+.linden-hill {
+    font-family: "Linden Hill";
+    display: block;
+    text-align: center;
+    font-size: 20px;
+}
+
+.asar {
+    font-family: "Asar";
+    display: block;
+    text-align: center;
+    font-size: 20px;
+
+}
+
+.libre-caslon-display {
+    font-family: "Libre Caslon Display";
+    display: block;
+    text-align: center;
+    font-size: 20px;
+    
+}
+
+.rosarivo {
+    font-family: "Rosarivo";
+    display: block;
+    text-align: center;
+    font-size: 20px;
+    
+}
+
+.font-1 {
+display: inline-block;
+border: 2px solid #BC4B51;
+width: 300px;
+height: 200px;
+margin: 10px 10px;
+vertical-align: top;
+}
+
+.font-2 {
+    display: inline-block;
+    border: 2px solid #BC4B51;
+    width: 300px;
+    height: 200px;
+    margin: 10px 10px;
+    justify-content: center;
+    vertical-align: top;
+}
+
+.font-3 {
+    display: inline-block;
+    border: 2px solid #BC4B51;
+    width: 300px;
+height: 200px;
+margin: 10px 10px;
+vertical-align: top;
+}
+
+.font-4 {
+    display: inline-block;
+    border: 2px solid #BC4B51;
+    width: 300px;
+height: 200px;
+margin: 10px 10px;
+vertical-align: top;
 }
