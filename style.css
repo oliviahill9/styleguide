@@ -9,4 +9,53 @@ h1 {
     font-weight: 300;
     background-color: #8CB369;
     height:fit-content;
+    border-radius: 20%;
+}
+
+h2 {
+    font-family: "Linden Hill";
+    text-align: center;
+    font-size: 30px;
+    font-weight: 500;
+}
+
+#para {
+    font-family: "Linden Hill";
+    text-align: center;
+    font-size: 20px;
+}
+
+.olivine {
+background-color: #8CB369;
+width: 300px;
+height: 200px;
+display: inline-block;
+}
+
+.buff {
+background-color: #F4E285;
+width: 300px;
+height: 200px;
+display: inline-block;
+}
+
+.sandy-brown {
+background-color: #F4A259;
+width: 300px;
+height: 200px;
+display: inline-block;
+}
+
+.wintergreen-dream {
+background-color: #5B8E7D;
+width: 300px;
+height: 200px;
+display: inline-block;
+}
+
+.bittersweet-shimmer {
+background-color: #BC4B51;
+width: 300px;
+height: 200px;
+display: inline-block;
 }
